@@ -1,0 +1,4 @@
+.terraform/
+linebreak.sh
+terraform.tfstate
+terraform.tfstate.backup
