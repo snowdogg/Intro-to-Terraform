@@ -6,7 +6,7 @@ This setup is for Mac OS, but would also work on a Linux machine.
 
 You should have AWS CLI installed on your machine and have run and configured the AWS CLI for the account or IAM role you wish to use to deploy these resources with this command: 
 ```bash
-aws config
+aws configure
 ```
 See AWS documentation for more information.
 
